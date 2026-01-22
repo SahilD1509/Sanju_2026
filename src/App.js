@@ -62,7 +62,7 @@ function App() {
     {
       company: 'Zones LLC',
       role: 'L3 Network Engineer - Shared NOC',
-      period: 'Oct 2024 - September 2025',
+      period: 'Oct 2024 - Sep 2025',
       location: 'Bangalore, India',
       projects: 'Result-CX, Core, Cariad, SAC Wireless SCMSDC, ULTA Beauty',
       highlights: [
